@@ -1,7 +1,9 @@
 Ubuntu Themes
 =============
 
-This repository is a collection of my themes & icons that i use on my linux operating system (Ubuntu). I'll update it with further themes progressively.
+This repository is a collection of themes & icons that i use on my linux operating system (Ubuntu). I'll update it with further themes progressively.
+
+Here's how the themes look like:
 
 ### Qogir theme
 
