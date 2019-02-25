@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Stylish-Light-Tang
+Comment=An Clean Gtk+ theme based on Flat Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Stylish-Light-Tang
+MetacityTheme=Stylish-Light-Tang
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
