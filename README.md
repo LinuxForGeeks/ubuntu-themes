@@ -17,6 +17,10 @@ Here's how the themes look like:
 
 [![Stylish theme](https://cn.opendesktop.org/img/4/f/d/4/538deb2e33cad0d8604eaba1ee78b9bdab0a.jpg)](https://www.gnome-look.org/p/1013743/)
 
+### Budgie theme
+
+[![Budgie theme](https://cn.opendesktop.org/img/d/9/c/8/8f8d0109d93a1cbcb29d78d56aea2cfd5e04.png)](https://www.gnome-look.org/p/1276879/)
+
 ### Papirus icons
 
 [![Papirus icon theme](https://cn.opendesktop.org/img/a/8/4/b/56595a54f9c931a8cac235caf97bccef5ab4.png)](https://www.gnome-look.org/p/1166289/)
