@@ -21,10 +21,6 @@ Here's how the themes look like:
 
 [![Vimix theme](https://cn.opendesktop.org/img/a/7/5/f/9ca2f4d4175a7e98b1a7a512274c417e01a1.jpg)](https://www.gnome-look.org/p/1013698/)
 
-### Budgie theme
-
-[![Budgie theme](https://cn.opendesktop.org/img/d/9/c/8/8f8d0109d93a1cbcb29d78d56aea2cfd5e04.png)](https://www.gnome-look.org/p/1276879/)
-
 ### Papirus icons
 
 [![Papirus icon theme](https://cn.opendesktop.org/img/a/8/4/b/56595a54f9c931a8cac235caf97bccef5ab4.png)](https://www.gnome-look.org/p/1166289/)
