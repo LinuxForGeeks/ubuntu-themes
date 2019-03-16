@@ -45,6 +45,10 @@ Here's how the themes look like:
 
 [![Suru++ icon theme](https://cn.opendesktop.org/img/e/f/5/7/fed59e93ae806a6b41e708705973093e8f97.png)](https://www.gnome-look.org/p/1210408/)
 
+### Tela icons
+
+[![Tela icon theme](https://cn.opendesktop.org/img/9/8/d/7/ce5a7c3356801ef0de4675298a297fb8ee10.jpg)](https://www.gnome-look.org/p/1279924/)
+
 ### How to install?
 
 Download & unzip `themes` folder content into `/usr/share/themes` & `icons` content into `/usr/share/icons`.
