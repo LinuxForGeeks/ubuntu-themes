@@ -29,6 +29,10 @@ Here's how the themes look like:
 
 [![Toffee theme](https://cn.opendesktop.org/img/4/3/a/1/8c0191da6e9b9029d802ee375de272cfba9f.jpg)](https://www.gnome-look.org/p/1272472/)
 
+### Flat-Remix theme
+
+[![Flat-Remix theme](https://cn.opendesktop.org/img/3/8/1/8/478d4eb11f9d53f6074cfda8fc919de3b181.png)](https://www.gnome-look.org/p/1214931/)
+
 ### Papirus icons
 
 [![Papirus icon theme](https://cn.opendesktop.org/img/a/8/4/b/56595a54f9c931a8cac235caf97bccef5ab4.png)](https://www.gnome-look.org/p/1166289/)
@@ -48,6 +52,10 @@ Here's how the themes look like:
 ### Tela icons
 
 [![Tela icon theme](https://cn.opendesktop.org/img/9/8/d/7/ce5a7c3356801ef0de4675298a297fb8ee10.jpg)](https://www.gnome-look.org/p/1279924/)
+
+### Flat-Remix icons
+
+[![Flat-Remix icon theme](https://cn.opendesktop.org/img/d/3/7/6/3036e892fbafb9fb2e6ad5e03e27517fcc05.png)](https://www.gnome-look.org/p/1012430/)
 
 ### How to install?
 
