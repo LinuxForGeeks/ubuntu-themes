@@ -21,6 +21,10 @@ Here's how the themes look like:
 
 [![Vimix theme](https://cn.opendesktop.org/img/a/7/5/f/9ca2f4d4175a7e98b1a7a512274c417e01a1.jpg)](https://www.gnome-look.org/p/1013698/)
 
+### Lavender theme
+
+[![Lavender theme](https://cn.opendesktop.org/img/8/6/3/c/4b43b9d2bf8ff4ef46084d6740c01fd6bcac.png)](https://www.gnome-look.org/p/1222336/)
+
 ### Papirus icons
 
 [![Papirus icon theme](https://cn.opendesktop.org/img/a/8/4/b/56595a54f9c931a8cac235caf97bccef5ab4.png)](https://www.gnome-look.org/p/1166289/)
