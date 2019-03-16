@@ -41,6 +41,10 @@ Here's how the themes look like:
 
 [![Paper icon theme](https://cn.opendesktop.org/img//hive/content-pre1/175923-1.png)](https://www.gnome-look.org/p/1099618/)
 
+### Vimix icons
+
+[![Vimix icon theme](https://cn.opendesktop.org/img/7/0/7/5/7df21f339d6602884cb3efbccc7b9d0a3662.png)](https://www.gnome-look.org/p/1273372/)
+
 ### Deepin icons
 
 [![Deepin icon theme](https://cn.opendesktop.org/img/3/3/7/3/d8211247acce770e5575fa8566b8ad72ad51.jpg)](https://www.gnome-look.org/p/1191167/)
