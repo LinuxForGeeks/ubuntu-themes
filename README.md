@@ -33,6 +33,10 @@ Here's how the themes look like:
 
 [![Flat-Remix theme](https://cn.opendesktop.org/img/3/8/1/8/478d4eb11f9d53f6074cfda8fc919de3b181.png)](https://www.gnome-look.org/p/1214931/)
 
+### Zorin theme
+
+[![Zorin theme](http://zorinos.com/releases/15/images/FileBrowser.png)](https://github.com/ZorinOS/zorin-desktop-themes)
+
 ### Papirus icons
 
 [![Papirus icon theme](https://cn.opendesktop.org/img/a/8/4/b/56595a54f9c931a8cac235caf97bccef5ab4.png)](https://www.gnome-look.org/p/1166289/)
