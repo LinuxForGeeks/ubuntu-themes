@@ -13,6 +13,10 @@ Here's how the themes look like:
 
 [![macOS Mojave](https://cn.opendesktop.org/img/9/e/5/1/8209269906aca59ea0abe3dc10774f61991e.jpg)](https://www.gnome-look.org/p/1275087/)
 
+### padOS theme
+
+[![padOS theme](https://cdn.pling.com/img/2/8/b/4/1f1bc3e7a4e0995f62dee206f424763c93ff.png)](https://www.mate-look.org/p/1314289/)
+
 ### Stylish theme
 
 [![Stylish theme](https://cn.opendesktop.org/img/4/f/d/4/538deb2e33cad0d8604eaba1ee78b9bdab0a.jpg)](https://www.gnome-look.org/p/1013743/)
