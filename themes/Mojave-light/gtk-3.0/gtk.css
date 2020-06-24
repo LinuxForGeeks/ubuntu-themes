@@ -9783,7 +9783,7 @@ box:not(.unpinned):not(.pinned) > revealer > button.flat.launcher, box:not(.unpi
 
 .raven {
   background-color: rgba(222, 222, 222, 0.85);
-  color: #363636;
+  color: #ffffff;
 }
 
 .raven > box {
@@ -9821,7 +9821,7 @@ box:not(.unpinned):not(.pinned) > revealer > button.flat.launcher, box:not(.unpi
 
 .raven .raven-header.top {
   padding: 2px 12px 8px;
-  color: #363636;
+  color: #ffffff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 
@@ -9953,7 +9953,7 @@ box:not(.unpinned):not(.pinned) > revealer > button.flat.launcher, box:not(.unpi
 }
 
 .raven .raven-background list {
-  color: #363636;
+  color: #ffffff;
   background-color: #f5f5f5;
 }
 
@@ -10020,7 +10020,7 @@ box:not(.unpinned):not(.pinned) > revealer > button.flat.launcher, box:not(.unpi
 .nemo-window .nemo-places-sidebar .raven box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > .places-treeview > box.vertical *,
 .raven .budgie-menu box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > button > box.vertical *,
 .budgie-menu .raven box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > button > box.vertical * {
-  color: #363636;
+  color: #ffffff;
 }
 
 .raven box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > row.activatable image, .raven .nemo-window .nemo-places-sidebar box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > .places-treeview image, .nemo-window .nemo-places-sidebar .raven box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > .places-treeview image, .raven .budgie-menu box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > button image, .budgie-menu .raven box.vertical > stack > box.vertical > .raven-background > viewport.frame > list > button image {
